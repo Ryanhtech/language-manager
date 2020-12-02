@@ -8,9 +8,12 @@
 ###To use Language Manager in your app, just follow these instructions:
  To create a language package, in the .language_manager folder:
  * Call language_manager.LanguageManager.create_language(language_name)
+
  Create a key (a translation ID with a value):
  * Call language_manager.LanguageManager.create_key(key_name, value, language_package)
- Delete a key:
+ 
+Delete a key:
  * Call language_manager.LanguageManager.delete_key(key_name, value, language_package)
- Delete a language package:
+ 
+Delete a language package:
  * Call language_manager.LanguageManager.delete_language(language_name, silent=True))
