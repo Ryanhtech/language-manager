@@ -8,7 +8,7 @@ Versions currently supported with security updates:
 | ---------- | ------------------ |
 | 1.0-ALPHA  | :warning:          |
 
-:white-check-mark: OK
+__OK__ Supported
 
 :warning: In development
 
