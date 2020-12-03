@@ -5,7 +5,9 @@
  * Copy the file "language_manager.py" in the source root of your project.
  * Create a folder ".language_manager" in the same directory of "language_manager.py".
  * Import language_manager in your app.
-###To use Language Manager in your app, just follow these instructions:
+ 
+ To use Language Manager in your app, just follow these instructions:
+ 
  To create a language package, in the .language_manager folder:
  * Call language_manager.LanguageManager.create_language(language_name)
 
