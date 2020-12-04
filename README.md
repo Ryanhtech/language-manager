@@ -6,14 +6,6 @@
  * Create a folder ".language_manager" in the same directory of "language_manager.py".
  * Import language_manager in your app.
 ###To use Language Manager in your app, just follow these instructions:
- To create a language package, in the .language_manager folder:
- * Call language_manager.LanguageManager.create_language(language_name)
+ To get a key from a language database, call:
 
- Create a key (a translation ID with a value):
- * Call language_manager.LanguageManager.create_key(key_name, value, language_package)
- 
-Delete a key:
- * Call language_manager.LanguageManager.delete_key(key_name, value, language_package)
- 
-Delete a language package:
- * Call language_manager.LanguageManager.delete_language(language_name, silent=True))
+`language_manager.LanguageManager.get_key(language_name, key)`
