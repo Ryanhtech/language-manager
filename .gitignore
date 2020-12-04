@@ -1,0 +1,5 @@
+.language_manager/*
+temp.py
+.idea/*
+.idea/inspectionProfiles/*
+__pycache__/*
