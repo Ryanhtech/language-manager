@@ -13,3 +13,16 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 """
+import os
+
+
+class LanguageManager:
+    def get_key(self, language_name, key):
+        with open(f".language_manager/{language_name}.langpkg", "r") as file:
+            with open(f"temp.py", "w") as temp_file:
+                temp_file.write(file.read())
+        import temp
+        return temp.LANGUAGE["contents"][key]
+
+    def clean(self):
+        os.remove("temp.py")
