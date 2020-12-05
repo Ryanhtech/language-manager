@@ -4,3 +4,4 @@ temp.py
 .idea/*
 .idea/inspectionProfiles/*
 __pycache__/*
+language_manager/info/__pycache__/*
