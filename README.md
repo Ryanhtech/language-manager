@@ -2,9 +2,8 @@
  An open source Python module for translating your Python apps in many languages.
 ## How to add LanguageManager in your app?
  Just follow these steps:
- * Copy the source files somewhere in your project
- * Add a folder called `packages` in the directory `language_manager`
- * Add a file in this folder named, for example `en-US.langpkg`.
+ * Copy the source files somewhere in your project (*It is recommended to create a new directory in your project just for LanguageManager*)
+ * Add a file in the folder `language_manager/packages`, for example `en-US.langpkg`.
  * In this file, add your keys and values, like in a Python dictionary:
    
 `LANGUAGE = {` The root of the dictionary
@@ -13,9 +12,9 @@
     
 `[TAB]"contents": {` The sub-dictionary in which you will put your keys
 
-`[TAB][TAB]"main": "Hello World!",` A key called "main" with a value of "Hello World!"
+`[TAB][TAB]"main": "Hello World!"**,**` A key called "main" with a value of "Hello World!"
 
-`...`
+`[TAB][TAB]...` Other keys and values
 
 `[TAB]},`
 
