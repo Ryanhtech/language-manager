@@ -12,7 +12,7 @@
     
 `[TAB]"contents": {` The sub-dictionary in which you will put your keys
 
-`[TAB][TAB]"main": "Hello World!"**,**` A key called "main" with a value of "Hello World!"
+`[TAB][TAB]"main": "Hello World!",` A key called "main" with a value of "Hello World!"
 
 `[TAB][TAB]...` Other keys and values
 
