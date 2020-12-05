@@ -1,5 +1,5 @@
 # LanguageManager
- An open source Python module for translating your app in many languages.
+ An open source Python module for translating your Python apps in many languages.
 ## How to add LanguageManager in your app?
  Just follow these steps:
  * Copy the source files somewhere in your project
