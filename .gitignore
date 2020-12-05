@@ -1,4 +1,5 @@
-.language_manager/*
+language_manager/packages/*
+language_manager/info/language_manager.log
 temp.py
 .idea/*
 .idea/inspectionProfiles/*
