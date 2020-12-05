@@ -1,4 +1,4 @@
-language_manager/packages/*
+language_manager/packages/*langpkg
 language_manager/info/language_manager.log
 temp.py
 .idea/*
