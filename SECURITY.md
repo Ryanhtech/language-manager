@@ -6,8 +6,8 @@ Versions currently supported with security updates:
 
 | Version    | Supported                   |
 | ---------- | --------------------------- |
-| 1.0        | **OK** (until 20 dec. 2020) |
-| 1.1        | **OK**                      |
+| 1.0        | :warning:                   |
+| 1.1        | **OK** (-> 25 dec. 2020)    |
 
 **OK** Supported
 
