@@ -1,5 +1,5 @@
 # LanguageManager
- An open source Python module for translating your Python apps in many languages. **Language Manager will be soon replaced by [DataModule](https://github.com/MisterPython581/datamodule)!**
+ An open source Python module for translating your Python apps in many languages. **This software is outdated! You can still use it, but at your own risks. It will be replaced by a new project on GitHub soon (~may/june).**
 ## How to add LanguageManager in your app?
  Just follow these steps:
  * Copy the source files somewhere in your project (*It is recommended to create a new directory in your project just for LanguageManager*)
