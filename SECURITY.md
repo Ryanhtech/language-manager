@@ -7,11 +7,11 @@ Versions currently supported with security updates:
 | Version    | Supported                   |
 | ---------- | --------------------------- |
 | 1.0        | :warning:                   |
-| 1.1        | **OK** (-> 25 dec. 2020)    |
+| 1.1        | :warning:                   |
 
 **OK** Supported
 
-:warning: Obsolete
+:warning: Outdated
 
 ## Reporting a vulnerability
 
